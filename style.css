@@ -1,0 +1,21 @@
+.jumbotron {
+  text-align: center;
+  align-content: center;
+}
+button{
+  background-color: #a7b116;
+  color: ivory;
+}
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 5px solid rgb(207, 206, 206);
+  font-size: 100px;
+  background-color: rgb(39, 136, 160);
+  color: ivory;
+}
+
+table {
+  margin: auto auto;
+}
